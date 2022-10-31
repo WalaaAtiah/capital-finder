@@ -11,15 +11,19 @@
 
 
 #### How to run your application :
-1. [Home page]()
+1. [Home page](https://capital-finder-seven-peach.vercel.app/api/capital_finder)
 
-2. [given country name]()
+2. [given country name](https://capital-finder-seven-peach.vercel.app/api/capital_finder?country=jordan)
 
-3. [given capital name]()
+3. [given capital name](https://capital-finder-seven-peach.vercel.app/api/capital_finder?capital=amman)
 
-4. [given country name & capital name]()
+4.given country name & capital name with correct county/capital match
+[given country name & capital name](https://capital-finder-seven-peach.vercel.app/api/capital_finder?capital=amman&country=jordan)
 
-5. [given wrong name]()
+5. given country name & capital name  and  county/capital not match
+[given country name & capital name](https://capital-finder-seven-peach.vercel.app/api/capital_finder?capital=Santiago&country=jordan)
+
+6. [given wrong name](https://capital-finder-seven-peach.vercel.app/api/capital_finder?country=amman)
 
 
 
