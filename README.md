@@ -17,11 +17,13 @@
 
 3. [given capital name](https://capital-finder-seven-peach.vercel.app/api/capital_finder?capital=amman)
 
-4.given country name & capital name with correct county/capital match
-[given country name & capital name](https://capital-finder-seven-peach.vercel.app/api/capital_finder?capital=amman&country=jordan)
+4. given country name & capital name with correct county/capital match
+
+  [given country name & capital name](https://capital-finder-seven-peach.vercel.app/api/capital_finder?capital=amman&country=jordan)
 
 5. given country name & capital name  and  county/capital not match
-[given country name & capital name](https://capital-finder-seven-peach.vercel.app/api/capital_finder?capital=Santiago&country=jordan)
+
+  [given country name & capital name](https://capital-finder-seven-peach.vercel.app/api/capital_finder?capital=Santiago&country=jordan)
 
 6. [given wrong name](https://capital-finder-seven-peach.vercel.app/api/capital_finder?country=amman)
 
